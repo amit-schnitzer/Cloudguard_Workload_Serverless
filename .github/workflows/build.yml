@@ -4,7 +4,7 @@ on:
     branches:
     - master
     paths:
-    - 'v1'
+    - '_build_flag'
 
 jobs:
   build: 
